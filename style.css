@@ -1,0 +1,130 @@
+.fullbody {
+	width: 1125px; 
+	margin: 5px auto;
+	border: 30px
+}
+a {
+	color:white;
+	text-decoration: none;
+}
+
+a:hover {
+	color:lightblue;
+}
+
+h1:hover {
+  color: lightblue;
+}
+
+h2:hover {
+  color: lightblue;
+}
+
+h3:hover {
+  color: lightblue;
+}
+
+h4:hover {
+  color: lightblue;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 20;
+	font-family:helvetica;
+}
+
+h2 {
+	color: white;
+	text-align: center;
+	font-size: 16;
+	font-family:helvetica;
+}
+
+h3 {
+	color: white;
+	text-align: justify;
+	font-size: 12;
+	font-family:helvetica;
+}
+
+h4 {
+	color: black;
+	text-align: center;
+	font-family:helvetica;
+}
+
+p {
+	color: lightgrey	;
+	font-size: 9;
+	font-family:helvetica;
+}
+
+
+ul {
+	color: lightgrey;
+	text-align: justify;
+	font-size: 9;
+	font-family:helvetica;	
+}
+
+body {
+	font-family: helvetica
+	font-size: 17px;
+	line-height: 1;
+	letter-spacing: 1px;
+	color: rgb(10, 10, 10);
+}
+
+iframe {
+	width: 49.7%; height: 300px;
+	border-top: 1px
+}
+
+.card-group {
+	 width: 1125px;
+	 display: flex;
+	 flex-direction: row;
+	 justify-content: space-between;
+}
+
+.banner {
+	background: black;
+    padding: 30px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 4px;
+    text-align: center;
+}
+
+.perso {
+	background: black;
+    padding: 30px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 3px;
+    text-align: center;
+    width: 20%;
+}
+
+.container-infos {
+	 width: 1125px;
+	 display: flex;
+	 flex-direction: row;
+	 justify-content: space-between;
+}
+
+.container-exp {
+	background: black;
+	border: 30px;
+	padding: 40px;
+}
+
+.footer {
+	background: white;
+    padding: 15px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 4px;
+    text-align: center;
+    font-family: helvetica
+}
+
